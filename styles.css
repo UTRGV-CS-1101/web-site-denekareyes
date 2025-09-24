@@ -1,0 +1,36 @@
+h1 { 
+     color:blue;
+     font-weight: 100;
+}
+h2 {
+    color:red;
+
+}
+
+a {
+    color: black;
+    font-weight: 100;
+}
+
+a {
+    color: greenyellow;
+   font-weight: 900;
+}
+
+.thisclass {
+    font-size: x-large;
+    color: purple;
+}
+
+#special {
+    width: 1%;
+    color: coral;
+    text-decoration: line-through;
+    background-color: aqua;
+}
+#fact1 {
+    font-style: oblique;
+}
+#specialdos {
+    font-style: italic;
+}
