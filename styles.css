@@ -1,36 +1,37 @@
-h1 { 
-     color:blue;
-     font-weight: 100;
+/* Main stylesheet */
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
 }
 h2 {
-    color:red;
-
+    color:black;
+    font-size: 20px;
 }
-
-a {
-    color: black;
-    font-weight: 100;
-}
-
-a {
-    color: greenyellow;
-   font-weight: 900;
-}
-
 .thisclass {
     font-size: x-large;
-    color: purple;
+    color: black;
+    font-size:20px;
 }
 
-#special {
-    width: 1%;
-    color: coral;
-    text-decoration: line-through;
-    background-color: aqua;
+p:hover {
+    color: black;
+    font-weight: 20;
 }
-#fact1 {
-    font-style: oblique;
+
+/* Center page content */
+body {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 1rem;
 }
-#specialdos {
-    font-style: italic;
+
+nav a {
+    margin: 0 0.5rem;
+    display: inline-block;
 }
+
+.cernter {
+    text-align: center;
+}
+/* Add any other styles below */
